@@ -107,7 +107,7 @@ Output:
 
 1. Clone repository:
 
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/username/student-graduation-prediction.git
 
 2. Install dependencies:
 
